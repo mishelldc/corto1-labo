@@ -1,0 +1,27 @@
+.padre{
+    width: 705px;
+    height: 600px;
+    display: flex;
+    gap: 10px;
+
+}
+.cuadritos_de_color{
+    height: 200px;
+    width: 235px;
+    background-color: rgba(255, 192, 203, 0.514);  
+}
+h2{
+    align-items: center;
+    color: blue;
+}
+.naranja{
+    width: 200px;
+    height: 205px;
+    background-color: orange;    
+    color: white;
+}
+.aqua{
+    width: 200px;
+    height: 205px;
+    border: 1px solid black;
+}
